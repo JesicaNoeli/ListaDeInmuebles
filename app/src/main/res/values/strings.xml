@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Listado De Inmuebles</string>
+    <string name="textview1">TextView1</string>
+    <string name="textview2">TextView2</string>
+    <string name="todo">TODO</string>
+    <string name="grande">GRANDE</string>
+    <string name="x">x</string>
+    <string name="textview3">TextView3</string>
+</resources>
